@@ -14,7 +14,6 @@ objective
 #Tranning Microservice 
 - Swag
 - Filebeat[https://www.elastic.co/downloads/beats/filebeat]
-Download Filebeat • Lightweight Log Analysis | Elastic
 - Elasticsearch [https://www.elastic.co/downloads/elasticsearch]
 - VS Code
 - Docker 
